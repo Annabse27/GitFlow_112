@@ -4,5 +4,9 @@ def word_uppercase(value):
     """
     return value.isupper()
 
+
 def debut_words_caps(sentence):
+    """
+    docstring
+    """
     return sentence.title()
