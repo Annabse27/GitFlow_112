@@ -1,6 +1,7 @@
 def word_uppercase(value):
     """
     docstring
+    conflict
     """
     return value.isupper()
 
